@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\bin\Debug\PaletaTempera.2021.exe.config
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\bin\Debug\PaletaTempera.2021.exe
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\bin\Debug\PaletaTempera.2021.pdb
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\obj\Debug\PaletaTempera.2021.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\obj\Debug\PaletaTempera._2021.FrmPaleta.resources
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\obj\Debug\PaletaTempera._2021.FrmTempera.resources
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\obj\Debug\PaletaTempera._2021.Properties.Resources.resources
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\obj\Debug\PaletaTempera.2021.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\obj\Debug\PaletaTempera.2021.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\obj\Debug\PaletaTempera.2021.exe
+C:\Users\Administrador\Desktop\UTN\Segundo Cuatrimestre\Programacion\PaletaTempera.2021\PaletaTempera.2021\obj\Debug\PaletaTempera.2021.pdb
